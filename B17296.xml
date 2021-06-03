@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Heart and Star, over against the Black-Bull, in the great Old-Bailey, lives a physician.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17296</idno><idno type="EEBO-CITATION">99889106</idno>
+  <idno type="VID">196224</idno>
+  <idno type="EEBO-PROQUEST">2240902012</idno>
+  
+            <idno type="STC">Wing A4099G</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[233]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R232784</idno>
+            <idno type="STC">ESTC R232816</idno>
+            <idno type="PROQUEST">ocm99889106</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889106e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196224)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[232])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Heart and Star, over against the Black-Bull, in the great Old-Bailey, lives a physician.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:196224:1"/>
+            <head>At the <hi>Heart</hi> and <hi>Star,</hi> over against the <hi>Black-Bull,</hi> in the <hi>Great Old-Baily,</hi> lives a <hi>PHYSICIAN.</hi>
+            </head>
+            <p>WHO by the Blessing of God on his great Study, Pains, Travels, and daily Experience, hath ever had wonderful Success in Cu<g ref="char:EOLhyphen"/>ring the following Diseases, <hi>viz.</hi> Cancers, Ulcers, and Cankers of all kinds; Consumptions, and Coughs, the King's-Evil, Joynt Evil, and all scrophulous Humours: The Stone, or Gravel in the Reins or Blad<g ref="char:EOLhyphen"/>der, he perfectly dissolves, and brings away with ease; the which is not known to be perform'd by any Person but himself: And gives great Ease in the violent Pains of the Gout, perfecting the Cure, if Curable.</p>
+            <p>He Cures all Pains in the Limbs, Cramps, Pleuresies, Rheumatisms, or Wind-Gout; the Dropsie, Itch, Scurvey, Lousie-Evil, Falling-sickness, Fits, Faintings, Vapours, and Jaundice of all sorts: All the different kinds of Fevers and Agues, Imposthumes; and all unnatural Swellings; Worms, Cholick, Head-ach, Madness, Forgetfullness; Deafness; and all Infirmities of the Eyes; Stinking-breath, Ptysick, or shortness of Breath, Green-sickness, Barrenness, and prevents Mis<g ref="char:EOLhyphen"/>carriages; with many secret Infirmities, relating to the Female-Sex: Also the Rickets in Children he Cures in three Weeks, or a Months time at farthest: Crookedness in Children, from two to sixteen Years of Age: Ruptures, or broken Bellies, and such as cannot hold their Water; Leprosies, or scald Heads.</p>
+            <p>He Cureth the <hi>Venereal</hi> Disease, with all its Symptoms, after a new, pleasant, speedy, and safe Method, without Fluxing, Confinement, loss of Business, or Dangerous and Poysonous Merourial Preparations: And has also an incomparable <hi>Anti-venereal Pill,</hi> that Cures the running of the Reins, Heat of Urine, and all other Symptoms of the Venereal Di<g ref="char:EOLhyphen"/>sease in a short time, <hi>price</hi> from 2 <hi>s.</hi> 6 <hi>d.</hi> to 5 <hi>s.</hi> the Box.</p>
+            <p>He hath a most excellent <hi>Elixir Proprietatis,</hi> far exceeding all vul<g ref="char:EOLhyphen"/>gar Preparations, <hi>price</hi> from 2 <hi>s.</hi> 6 <hi>d.</hi> to 5 <hi>s.</hi> the Bottle, with its ex<g ref="char:EOLhyphen"/>traordinary Vertues, and Directions how to use it. He also prepareth a most admirable <hi>Chymical Balsamic Spirit,</hi> which speedily Cureth all green Wounds, and old invetrate Ulcers to admiration, <hi>price</hi> from 2 <hi>s.</hi> 6 <hi>d.</hi> to 5 <hi>s.</hi> the Bottle.</p>
+            <p>He hath also a singular <hi>Cathartick Family-Pill,</hi> Strengthening and Restorative far beyond any yet known, and most admirable in the Re<g ref="char:EOLhyphen"/>lief of many of the above mentioned Distempers; they may be safely taken at all Times and Seasons, and keep good many Years, as well by Sea as Land, tho' carried into hot Countries: He hath sold great Quan<g ref="char:EOLhyphen"/>tities to the <hi>East-Indies,</hi> and to <hi>Jamaica,</hi> and <hi>Barbadoes,</hi> and to other Parts of the <hi>West-Indies;</hi> they most effectually Cure the Distempers of those Countries; and now for the Publick good, are sold for 2 <hi>s.</hi> 6 <hi>d.</hi> and 5 <hi>s.</hi> the Box.</p>
+            <p>He likewise hath the most excellent <hi>Anti-Febrifick,</hi> with which he hath Cured many Hundreds, when other Means have failed, and have
+<pb facs="tcp:196224:2"/>been thought past Cure by others: It never fails (if curable) to take off the height of the Fever in six Hours, reviving and chearing the Spirits to admiration. <hi>The like no other can produce.</hi>
+            </p>
+            <p>Those that by way of prevention would secure themselves against the Distempers that usually afflict Mankind, may take 2 or 3 Doses of his <hi>Pills</hi> and <hi>Elixir,</hi> than which, nothing is better.</p>
+            <p>He gives Judgment on Urines, and all Distempers, and Candidly deals with the Patients in Resolving them, whether Cureable or not.</p>
+            <p>And for the satisfaction of those that think any Season of the Year improper to take Physick in; it may be adviseable to assure them, that when ever a Distemper seizes, it's then time to seek Relief.</p>
+            <p>It would be tedious to insert the many Cures he hath performed, and therefore shall trouble the Reader only with these few following, <hi>viz.</hi> The Wife of Mr. <hi>Parker,</hi> Ribbon-Weaver, in <hi>Nicholas-street</hi> in <hi>Shore-ditch,</hi> who was in a languishing Condition for 2 Years, with a conti<g ref="char:EOLhyphen"/>nual Pain and Tumor in the Womb, and was persuaded for a long time that she was with Child; and given over by many Physicians, some affirming that she had a Devil in her; and by the Blessing of God, she was perfectly restored to Health by him in 3 Months. The Wife of Mr. <hi>John Seal,</hi> Weaver, in <hi>Cock-Alley,</hi> in the same Street, that had been tormented with an Ulcer in the Womb 12 Months, he cured in a little less than 2 Months. Also Mrs. <hi>Jones,</hi> near the <hi>Cock,</hi> in the same Street, had a Quartane Ague 9 Months, and finding no benefit by se<g ref="char:EOLhyphen"/>veral Physicians, was cured by him in a Week. Mr. <hi>Roger Combs</hi> in <hi>Salisbury-Court,</hi> who was afflicted with the Dropsy, Yellow-jaundice, and Cholick, he cured in 6 Weeks. Mr. <hi>Green</hi> in <hi>Salisbury-Court,</hi> he cured of a Dropsy in 3 Weeks, <hi>being given over by others.</hi> He cured <hi>John Wooton</hi> of <hi>Puddle-Dock,</hi> Carman, of the Dropsy, in 3 Weeks. The Wife of Mr. <hi>Bradley</hi> Emmery-man in <hi>Salisbury-Court,</hi> he cured of a Fever, Vomiting, and the Obstruction of Urine, in 12 Days, <hi>after gi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n over by others.</hi> Mrs. <hi>Jones,</hi> at the <hi>Cloth-workers Arms</hi> in <hi>Plow<g ref="char:EOLhyphen"/>Street</hi> in <hi>White-Chappel,</hi> he cured of a virulent Flux, in a Month. Mr. <hi>Fausters</hi> Wife of <hi>Ratclif,</hi> against <hi>School-lane</hi> End, was cured of a Deaf<g ref="char:EOLhyphen"/>ness by him in 3 Months. The Son of Mr. <hi>Hunt,</hi> a Tobacco-pipe Maker over against the <hi>Sugar-loaf</hi> in <hi>Salisbury-Court,</hi> had the Rickets and Consumption at 4 Years old, wherewith he became a Cripple, and was perfectly Cured by him in 2 Months.</p>
+            <p>He could name many Hundred more, (were it proper) that he hath Cured of all the Distempers that afflict Mankind.</p>
+            <p>He hath convenient Lodgings for any Patient that desires to be pri<g ref="char:EOLhyphen"/>vate.</p>
+            <p>
+               <hi>And is to be spoken with from</hi> 8 <hi>in the Morning 'till</hi> 11, <hi>and from</hi> 2 <hi>'till</hi> 6 <hi>at Night</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
